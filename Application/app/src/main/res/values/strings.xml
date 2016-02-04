@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalorieConverter</string>
+    <string name="input_type">Reps</string>
+
+
+    <string-array name ="exercise_array">
+        <item>Cycling</item>
+        <item>Jumping Jacks</item>
+        <item>Jogging</item>
+        <item>Leg-lifts</item>
+        <item>Planking</item>
+        <item>Pull-ups</item>
+        <item>Push-ups</item>
+        <item>Sit-ups</item>
+        <item>Squats</item>
+        <item>Stair-climbing</item>
+        <item>Swimming</item>
+        <item>Walking</item>
+    </string-array>>
+
+</resources>
