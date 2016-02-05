@@ -1,18 +1,13 @@
 # PROG 01: Crunch Time
 
-Briefly describe your app here.
+Application Name: CalorieConverter
+Description: 
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Ryan Casey ([rcasey@berkeley.edu](mailto:rcasey@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See [PROG01: CalorieConverter] (https://www.youtube.com/watch?v=KYQaIeMwn5E&feature=youtu.be)
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
-
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
