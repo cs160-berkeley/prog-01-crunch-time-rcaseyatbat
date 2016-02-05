@@ -1,7 +1,8 @@
 # PROG 01: Crunch Time
 
 Application Name: CalorieConverter
-Description: 
+
+Description: This application allows a user to see how many calories they burned doing a particular physical activity, and see the equivalent amount of another activity they would need to do to burn the same amount of calories.
 
 ## Authors
 
